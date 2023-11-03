@@ -116,7 +116,7 @@
 
 <li>
 <a href="mailto:copyongg@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Polvaryze-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Kxner-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -145,6 +145,4 @@ El que te enseñó mejor" 🎵</b>
 
 <br>
 
-Credit: [Abdul Khalid]([https://github.com/0xabdulkhalid](https://github.com/Polvaryze)https://github.com/Polvaryze)
-
-Last Edited on: 9/17/23
+Last Edited on: 11-3-23
